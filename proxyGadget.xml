@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>   
 <Module>
 <ModulePrefs title="proxyGadget" />
-<Content type="url" href="https://ronwright71-proxy-app.appspot.com/" />
+<!-- <Content type="url" href="https://ronwright71-proxy-app.appspot.com/" /> -->
+<Content type="html"><![CDATA[
+
+Hello, world!
+
+]]></Content>
 </Module>
